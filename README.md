@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&size=28&duration=3000&pause=1000&color=0175C2&center=true&vCenter=true&width=600&lines=Hey+There! +I'm+Hamza+Munir+👋;Flutter+Developer+%7C+AI+Enthusiast;Building+Mobile+Apps+That+Matter" alt="Typing SVG" />
-</div>
-
----
 
 ## 🎯 About Me
 
@@ -12,20 +7,6 @@
   </p>
   
   **📍 Lahore, Pakistan** | **🌍 Open to Remote Work Worldwide**
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamza3914Munir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0175C2&icon_color=00D9FF&text_color=E8E8E8&count_private=true)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/? username=Hamza3914Munir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0175C2&text_color=E8E8E8)
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/? user=Hamza3914Munir&theme=tokyonight&hide_border=true&background=0D1117&stroke=0175C2&ring=0175C2&fire=FF5733&currStreakNum=00D9FF&sideNums=E8E8E8&currStreakLabel=0175C2&dates=E8E8E8)
-
 </div>
 
 ---
